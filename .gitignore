@@ -1,0 +1,9 @@
+*.pyc
+email_extractor/
+email_extractor/*
+const.py
+token.txt
+linkedin_scraper.py
+errors.py
+email_test.py
+*.swp
